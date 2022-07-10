@@ -1,0 +1,84 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = SaveToDateApp
+build_property.RootNamespace = SaveToDateApp
+build_property.ProjectDir = C:\Users\Michał\Desktop\Studia\SaveToDateApp\SaveToDateApp\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Michał\Desktop\Studia\SaveToDateApp\SaveToDateApp
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Michał/Desktop/Studia/SaveToDateApp/SaveToDateApp/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Michał/Desktop/Studia/SaveToDateApp/SaveToDateApp/Views/FridgeProducts/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnJpZGdlUHJvZHVjdHNcQWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Michał/Desktop/Studia/SaveToDateApp/SaveToDateApp/Views/FridgeProducts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnJpZGdlUHJvZHVjdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Michał/Desktop/Studia/SaveToDateApp/SaveToDateApp/Views/FridgeProducts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnJpZGdlUHJvZHVjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Michał/Desktop/Studia/SaveToDateApp/SaveToDateApp/Views/FridgeProducts/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnJpZGdlUHJvZHVjdHNcVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Michał/Desktop/Studia/SaveToDateApp/SaveToDateApp/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Michał/Desktop/Studia/SaveToDateApp/SaveToDateApp/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Michał/Desktop/Studia/SaveToDateApp/SaveToDateApp/Views/PantryProducts/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFudHJ5UHJvZHVjdHNcQWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Michał/Desktop/Studia/SaveToDateApp/SaveToDateApp/Views/PantryProducts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFudHJ5UHJvZHVjdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Michał/Desktop/Studia/SaveToDateApp/SaveToDateApp/Views/PantryProducts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFudHJ5UHJvZHVjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Michał/Desktop/Studia/SaveToDateApp/SaveToDateApp/Views/PantryProducts/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFudHJ5UHJvZHVjdHNcVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Michał/Desktop/Studia/SaveToDateApp/SaveToDateApp/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Michał/Desktop/Studia/SaveToDateApp/SaveToDateApp/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Michał/Desktop/Studia/SaveToDateApp/SaveToDateApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Michał/Desktop/Studia/SaveToDateApp/SaveToDateApp/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Michał/Desktop/Studia/SaveToDateApp/SaveToDateApp/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Michał/Desktop/Studia/SaveToDateApp/SaveToDateApp/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-kgvgr8yvwm

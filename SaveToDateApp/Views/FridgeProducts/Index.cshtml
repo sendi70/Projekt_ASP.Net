@@ -1,0 +1,49 @@
+﻿@using SaveToDateApp.Services
+@model System.Collections.Generic.IEnumerable<SaveToDateApp.Entities.FridgeProductEntity>
+
+@{
+    ViewData["Title"] = "Fridge products";
+}
+
+<div class="row">
+    <div class="col-md-8 text-center mx-auto">
+        <h1>Fridge products</h1>
+        <table style="width: 100%">
+            <thead>
+            <tr>
+                <th>Name</th>
+                <th>Date</th>
+                <th>Category</th>
+                <th>Actions</th>
+            </tr>
+            </thead>
+            <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Name</td>
+                    @if (DateTime.Now > item.ExpirationDate)
+                    {
+                        <td class="text-danger">@item.ExpirationDate.ToString("d")</td>
+                    }
+                    else
+                    {
+                        <td>@item.ExpirationDate.ToString("d")</td>
+                    }
+                    <td>@item.FridgeCategoryEnum.ToString()</td>
+                    <td>
+                        <a style="text-decoration: none;" asp-action="Update" asp-route-id="@item.Id">
+                            <i class="bi bi-pencil-square text-black"></i>
+                        </a>
+                        <a style="text-decoration: none;" asp-action="Delete" asp-route-id="@item.Id">
+                            <i class="bi bi-trash-fill text-black"></i>
+                        </a>
+                    </td>
+                </tr>
+            }
+            </tbody>
+        </table>
+        <a class="btn btn-outline-success float-right" asp-action="Add"> Add
+                        </a>
+    </div>
+</div>
